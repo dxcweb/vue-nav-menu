@@ -51,7 +51,6 @@ export default {
 }
 
 .vue-nav-compatible {
-    /* overflow: hidden; */
     position: absolute;
     left: 0;
     right: 0;
@@ -103,7 +102,8 @@ export default {
 }
 
 .vue-nav-menu .el-submenu .el-menu-item:hover,
-.vue-nav-menu .el-submenu__title:hover {
+.vue-nav-menu .el-submenu__title:hover,
+.vue-nav-menu .el-menu-item:hover {
     background-color: #00b792;
     color: #ffffff;
 }

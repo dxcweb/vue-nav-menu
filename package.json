@@ -1,6 +1,6 @@
 {
   "name": "vue-nav-menu",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "title": "iView",
   "description": "vue-nav-menu",
   "keywords": [
@@ -25,10 +25,7 @@
     "unit": "cross-env BABEL_ENV=test karma start test/unit/karma.conf.js --single-run",
     "test": "npm run lint && npm run unit"
   },
-  "repository": {
-    "type": "git",
-    "url": ""
-  },
+  "repository": "https://github.com/dxcweb/vue-nav-menu",
   "author": "dxcweb",
   "license": "MIT",
   "dependencies": {
