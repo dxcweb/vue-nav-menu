@@ -23,7 +23,8 @@
     "dist": "npm run dist:style && npm run dist:dev && npm run dist:prod && npm run dist:locale",
     "lint": "eslint --fix --ext .js,.vue src",
     "unit": "cross-env BABEL_ENV=test karma start test/unit/karma.conf.js --single-run",
-    "test": "npm run lint && npm run unit"
+    "test": "npm run lint && npm run unit",
+    "pub": "npm publish"
   },
   "repository": "https://github.com/dxcweb/vue-nav-menu",
   "author": "dxcweb",
