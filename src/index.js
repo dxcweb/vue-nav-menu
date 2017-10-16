@@ -1,5 +1,4 @@
 import NavMenu from './nav-menu';
-import './fa.less';
 
 const components = {
     NavMenu,

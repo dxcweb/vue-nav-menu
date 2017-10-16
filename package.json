@@ -1,6 +1,6 @@
 {
   "name": "vue-nav-menu",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "title": "iView",
   "description": "vue-nav-menu",
   "keywords": [
@@ -35,14 +35,14 @@
     "core-js": "^2.5.0",
     "deepmerge": "^1.5.1",
     "element-resize-detector": "^1.1.12",
-    "font-awesome": "^4.7.0",
     "perfect-scrollbar": "^1.0.3",
     "popper.js": "^0.6.4",
     "tinycolor2": "^1.4.1"
   },
   "peerDependencies": {
     "vue": "^2.4.3",
-    "element-ui": "^1.4.6"
+    "element-ui": "^1.4.6",
+    "font-awesome": "^4.7.0"
   },
   "devDependencies": {
     "autoprefixer-loader": "^2.0.0",

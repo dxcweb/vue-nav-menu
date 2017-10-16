@@ -6,6 +6,7 @@ import VueRouter from 'vue-router';
 import App from './app.vue';
 import iView from '../src/index';
 import ElementUI from 'element-ui';
+import './fa.less';
 import 'element-ui/lib/theme-default/index.css';
 Vue.use(ElementUI);
 Vue.use(VueRouter);
