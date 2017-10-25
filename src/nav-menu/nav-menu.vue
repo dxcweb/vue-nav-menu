@@ -2,7 +2,7 @@
     <div class="vue-nav-menu" :class="{'vue-nav-menu-collapse':collapse}">
         <div class="vue-nav-compatible">
             <div class="sidebar-fold" @click="clickFold">
-                <i class="fa-bars"></i>
+                <i class="el-icon-fa-bars"></i>
             </div>
             <div id="vue-nav-menu-scrollbar">
                 <el-menu :default-active="active" :unique-opened="true" :router="true" :collapse="collapse">
