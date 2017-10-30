@@ -111,7 +111,7 @@ export default {
 .vue-nav-menu .el-menu-item,
 .vue-nav-menu .el-submenu__title {
     color: #a8b7c5;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .vue-nav-menu .el-menu-item.is-active {
